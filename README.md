@@ -1,4 +1,4 @@
-# myschooll
+# musicapp
 
 A new Flutter application.
 
